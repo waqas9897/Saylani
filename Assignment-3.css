@@ -1,0 +1,75 @@
+.header {
+    background-color: #3c6fbe;
+    color: #ffff;
+    
+}
+
+.row i {
+font-size: large;
+margin: 15px 10px;
+}
+
+.navbar-brand img {
+    width: 250px;
+} 
+
+.dropdown:hover>.dropdown-menu {
+    display: inline-block;
+}
+
+.nav-item:hover {
+    background-color: #3c6fbe;
+    
+}
+
+
+#intro {
+   background-color: #eff5f6;
+   color: #3c6fbe ;
+   }
+
+
+.doing-box {
+    color: #3c6fbe ;
+    /* margin-top: 20px; */
+    }
+
+.counter {
+    background-color: #2755E9 ;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.marquee-box {
+    background-color: #3c6fbe ;
+    color: white;
+}
+
+
+#footer {
+background-color: #0a0a0afa;
+color: white;
+}
+
+
+.social-icons {
+    margin-left: 5px;
+    
+}
+
+.we-do h1 {
+    color: #3c6fbe;
+}
+
+.media-body h4 {
+    color: #3c6fbe;
+}
+
+.mission-section h3 {
+    color: #3c6fbe ;
+}
+
+
+
+

@@ -1,0 +1,24 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: limegreen;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+#submitted {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+}
+p>a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+}
